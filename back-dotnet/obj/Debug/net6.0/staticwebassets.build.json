@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n+5ACNZppEPACE3VQvay1TpRbOOxq5EaSsL2geO7+lU=",
+  "Source": "back-dotnet",
+  "BasePath": "_content/back-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "MowWSaWz7ZhO6+wlCh9nD+UfBQ+jpnjHQAeofjEv/S84Wz+MOYC4gX5w88Wy0+s3fHSKzJQm2qxJaqC/cP1w1Q==",
+  "dgSpecHash": "wATkJwJwe3s/FQmDPkcYhhzkwYBLWfYxJE3BcG0sxsUT/gF6HzYP/kmvVKGTZbvJ7K6+jAuJAPgwKS2bmYVexQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\totp-front-back\\back-dotnet\\back-dotnet.csproj",
+  "projectFilePath": "/home/brunoseco/Projetos/totp-front-back/back-dotnet/back-dotnet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\bruno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/brunoseco/.nuget/packages/aspnetcore.totp/2.3.0/aspnetcore.totp.2.3.0.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/aspnetcore.totp.interface/2.3.0/aspnetcore.totp.interface.2.3.0.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/brunoseco/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
