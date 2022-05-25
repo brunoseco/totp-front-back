@@ -15,10 +15,10 @@ public class TOTPController : ControllerBase
     }
 
     [HttpGet]
-    public int Get()
+    public int[] Get()
     {
         var generator = new TotpGenerator();
-        var code = generator.Generate("beb228c5-cf4b-4ac9-8ba5-fd0e677ee56e");
-        return code;
+        var code = generator.GetValidTotps("beb228c5-cf4b-4ac9-8ba5-fd0e677ee56e", TimeSpan.FromSeconds(60));
+        return code.ToArray();
     }
 }
